@@ -1,0 +1,27 @@
+{
+  "name": "crew",
+  "version": "0.1.0",
+  "description": "it's a crew",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phantomS4/crew.git"
+  },
+  "keywords": [
+    "crew"
+  ],
+  "author": "qqy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phantomS4/crew/issues"
+  },
+  "homepage": "https://github.com/phantomS4/crew",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "express": "^4.12.3",
+    "superagent": "^1.2.0"
+  }
+}
