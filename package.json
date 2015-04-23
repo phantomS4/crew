@@ -21,6 +21,7 @@
   "homepage": "https://github.com/phantomS4/crew",
   "dependencies": {
     "cheerio": "^0.19.0",
+    "eventproxy": "^0.3.2",
     "express": "^4.12.3",
     "superagent": "^1.2.0"
   }
